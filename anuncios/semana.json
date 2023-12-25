@@ -1,0 +1,79 @@
+[
+  {
+    "id": 5,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Campaña Evangelistica",
+    "fechaini": "2023-12-29T18:30:00",
+    "fechafin": "2023-12-29T18:30:00",
+    "descripcion": "Campaña Evangelistica",
+    "ubicacion": "Campaña Evangelistica",
+    "estado": 1
+  },
+  {
+    "id": 6,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Clausura Año 2023",
+    "fechaini": "2023-12-30T18:00:00",
+    "fechafin": "2023-12-30T18:00:00",
+    "descripcion": "Clausura Año 2023",
+    "ubicacion": "Clausura Año 2023",
+    "estado": 1
+  },
+  {
+    "id": 7,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Culto Dominical",
+    "fechaini": "2023-12-31T09:00:00",
+    "fechafin": "2023-12-31T09:00:00",
+    "descripcion": "Culto Dominical",
+    "ubicacion": "Culto Dominical",
+    "estado": 1
+  },
+  {
+    "id": 1,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Muro de Oración",
+    "fechaini": "2023-12-25T18:30:00",
+    "fechafin": "2023-12-25T18:30:00",
+    "descripcion": "Muro de Oración",
+    "ubicacion": "Muro de Oración",
+    "estado": 1
+  },
+  {
+    "id": 2,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Culto de Ministerios",
+    "fechaini": "2023-12-26T18:30:00",
+    "fechafin": "2023-12-26T18:30:00",
+    "descripcion": "Culto de Ministerios",
+    "ubicacion": "Culto de Ministerios",
+    "estado": 1
+  },
+  {
+    "id": 3,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Altar Familiar",
+    "fechaini": "2023-12-27T18:30:00",
+    "fechafin": "2023-12-27T18:30:00",
+    "descripcion": "Altar Familiar",
+    "ubicacion": "Altar Familiar",
+    "estado": 1
+  },
+  {
+    "id": 4,
+    "idiglesia": 1,
+    "idevento": null,
+    "nombre": "Fortalecimiento Espiritual",
+    "fechaini": "2023-12-28T18:30:00",
+    "fechafin": "2023-12-28T18:30:00",
+    "descripcion": "Fortalecimiento Espiritual",
+    "ubicacion": "Fortalecimiento Espiritual",
+    "estado": 1
+  }
+]
