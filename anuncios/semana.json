@@ -9,7 +9,8 @@
     "descripcion": "Campaña Evangelistica",
     "ubicacion": "Campaña Evangelistica",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   },
   {
     "id": 6,
@@ -21,7 +22,8 @@
     "descripcion": "Clausura Año 2023",
     "ubicacion": "Clausura Año 2023",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   },
   {
     "id": 7,
@@ -33,7 +35,8 @@
     "descripcion": "Culto Dominical",
     "ubicacion": "Culto Dominical",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   },
   {
     "id": 1,
@@ -45,7 +48,8 @@
     "descripcion": "Muro de Oración",
     "ubicacion": "Muro de Oración",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/oracion.jpg"
   },
   {
     "id": 2,
@@ -57,7 +61,8 @@
     "descripcion": "Culto de Ministerios",
     "ubicacion": "Culto de Ministerios",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/mujeres.jpg"
   },
   {
     "id": 3,
@@ -69,7 +74,8 @@
     "descripcion": "Altar Familiar",
     "ubicacion": "Altar Familiar",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   },
   {
     "id": 4,
@@ -81,6 +87,7 @@
     "descripcion": "Fortalecimiento Espiritual",
     "ubicacion": "Fortalecimiento Espiritual",
     "estado": 1,
-    "color": "#B9D9EB"
+    "color": "#B9D9EB",
+    "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   }
 ]
