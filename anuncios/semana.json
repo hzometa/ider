@@ -8,7 +8,8 @@
     "fechafin": "2023-12-29T18:30:00",
     "descripcion": "Campaña Evangelistica",
     "ubicacion": "Campaña Evangelistica",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 6,
@@ -19,7 +20,8 @@
     "fechafin": "2023-12-30T18:00:00",
     "descripcion": "Clausura Año 2023",
     "ubicacion": "Clausura Año 2023",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 7,
@@ -30,7 +32,8 @@
     "fechafin": "2023-12-31T09:00:00",
     "descripcion": "Culto Dominical",
     "ubicacion": "Culto Dominical",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 1,
@@ -41,7 +44,8 @@
     "fechafin": "2023-12-25T18:30:00",
     "descripcion": "Muro de Oración",
     "ubicacion": "Muro de Oración",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 2,
@@ -52,7 +56,8 @@
     "fechafin": "2023-12-26T18:30:00",
     "descripcion": "Culto de Ministerios",
     "ubicacion": "Culto de Ministerios",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 3,
@@ -63,7 +68,8 @@
     "fechafin": "2023-12-27T18:30:00",
     "descripcion": "Altar Familiar",
     "ubicacion": "Altar Familiar",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   },
   {
     "id": 4,
@@ -74,6 +80,7 @@
     "fechafin": "2023-12-28T18:30:00",
     "descripcion": "Fortalecimiento Espiritual",
     "ubicacion": "Fortalecimiento Espiritual",
-    "estado": 1
+    "estado": 1,
+    "color": "#B9D9EB"
   }
 ]
