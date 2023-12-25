@@ -35,7 +35,7 @@
     "descripcion": "Culto Dominical",
     "ubicacion": "Culto Dominical",
     "estado": 1,
-    "color": "#B9D9EB",
+    "color": "#87CEEB",
     "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/alabanza.jpg"
   },
   {
@@ -48,7 +48,7 @@
     "descripcion": "Muro de Oración",
     "ubicacion": "Muro de Oración",
     "estado": 1,
-    "color": "#B9D9EB",
+    "color": "#FAD5A5",
     "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/oracion.jpg"
   },
   {
@@ -61,7 +61,7 @@
     "descripcion": "Culto de Ministerios",
     "ubicacion": "Culto de Ministerios",
     "estado": 1,
-    "color": "#B9D9EB",
+    "color": "#FFC0CB",
     "urlimagen": "https://raw.githubusercontent.com/hzometa/ider/main/imagenes/mujeres.jpg"
   },
   {
